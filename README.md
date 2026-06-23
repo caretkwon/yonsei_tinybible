@@ -15,6 +15,7 @@
 
 제가 제출하는 과제 이름은 tinybible로, tiny shakespeare의 데이터셋을 king james bible로 바꾼 tiny gpt입니다.
 
+추가로 notebook_06.py는 파이썬으로 바꾼 버전으로 기존 트레이닝 데이터를 미리 보관하고, 실행할 때 다시 돌리지 않는 기능을 추가했습니다.
 
 편하신 시간에 맞춰 찾아뵙도록 하겠습니다.
 
@@ -33,3 +34,4 @@
 caretkwon@yonsei.ac.kr
 
 010-2183-8128
+
